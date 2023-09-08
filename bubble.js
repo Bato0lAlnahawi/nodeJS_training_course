@@ -14,3 +14,6 @@ return arr
 
 
 console.log(bubble([1,4,2,7,9,3,5]));
+
+
+// time complexity of bubble sort function is O(n^2), because there is 2 nested arrays.
